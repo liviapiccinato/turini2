@@ -1,6 +1,6 @@
 body{
     background-color: darkslategray; 
-    
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -13,4 +13,11 @@ h2{
 }
 h1{
     color: aliceblue;
+}
+.sobrenatural img{
+    width: 750px;
+}
+
+img{
+    width: 650px;
 }
